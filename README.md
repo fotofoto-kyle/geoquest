@@ -95,8 +95,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 Licensed under [MIT License](https://github.com/GeoGuess/Geoguess/blob/master/LICENSE)
 
-## 📞 Contact
 
-Feel free to give us feedback.  
-[Issues](https://github.com/GeoGuess/Geoguess/issues) or
-[Discord](https://discord.gg/9GXm6RT)
